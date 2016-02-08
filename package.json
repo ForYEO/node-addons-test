@@ -1,0 +1,23 @@
+{
+  "name": "node-addons-test",
+  "version": "0.0.1",
+  "description": "This is test app that demonstates creation of simple node addon",
+  "main": "app/index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vbukach/node-addons-test.git"
+  },
+  "keywords": [
+    "node",
+    "addon"
+  ],
+  "author": "vbukach",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/vbukach/node-addons-test/issues"
+  },
+  "homepage": "https://github.com/vbukach/node-addons-test#readme"
+}
